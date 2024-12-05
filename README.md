@@ -1,6 +1,6 @@
 # Proyecto Happy Art - Tienda Online 🎨  
 
-![Link al sitio](https://happyart-art.netlify.app/)
+[Link al sitio](https://happyart-art.netlify.app/)
 
 HappyArt es una aplicación fullstack de un estudio que consta con distintos servicios editoriales personalizados.
 
@@ -13,7 +13,7 @@ Sebastián Lorca
 
 ### 1- Diseño de la interfaz gráfica
 
-![Link a todas las vistas](https://github.com/dvd-rivera/Hito_1/blob/master/vistas_interfaz/webhappy.pdf)
+[Link a todas las vistas](https://github.com/dvd-rivera/Hito_1/blob/master/vistas_interfaz/webhappy.pdf)
 ![Vista home sitio](https://raw.githubusercontent.com/dvd-rivera/Hito_1/master/vistas_interfaz/webhappy(2)_page-0001.jpg)
 
 ### 2- Definición de la navegación entre las vistas
